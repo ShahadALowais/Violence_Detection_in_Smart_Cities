@@ -44,4 +44,4 @@ Our Dataset is from kaggle and it contains 1000 Violence and 1000 non-violence v
 ## Conclusion
 The project successfully achieve it's goal using **Deep Learning**  with **0.88%** accuracy .
 
- />
+ 
