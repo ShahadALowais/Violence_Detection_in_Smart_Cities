@@ -14,7 +14,12 @@ Our Dataset is from kaggle and it contains 1000 Violence and 1000 non-violence v
  2. Deep Learning 
    - Modeling
    - Transfer Learning
-     
+     <br/> <br/> 
+     |           | Traning            | Validation         |         Test      |
+     |-----------|--------------------|--------------------|--------------------
+     |   VGG16   |     0.94           |     0.88           |      0.88         |
+  
+    
      
  ## Tools
 - google colab  
